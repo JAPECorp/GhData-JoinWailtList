@@ -25,7 +25,9 @@ module.exports = {
       },
 
       fontSize: {
-        'ghdata-xsm': '14px'
+        'ghdata-xsm': '14px',
+        'ghdata-sm': '16px',
+        'ghdata-md': '18px',
       },
 
       fontFamily: {
@@ -64,8 +66,12 @@ module.exports = {
 
       borderRadius: {
         'ghdata-px-12': '12px',
-      }
+      },
 
+      backgroundImage: {
+        "ghdata-section-gradient":
+          "linear-gradient(0deg, #38F49A 100%, #359E6C 100%)",
+      },
       
 
     },
