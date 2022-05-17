@@ -1,7 +1,6 @@
 import React, { useRef } from "react";
 import { motion } from "framer-motion";
 import Image from 'next/image';
-import ParticlesComponent from "../utilities/particles/particles";
 
 
 
@@ -9,7 +8,7 @@ import ParticlesComponent from "../utilities/particles/particles";
 function Index(props) {
   return (
     <>
-     <ParticlesComponent/>
+     
       <section className="pt-16 md:pt-32">
         <div className="text-center">
           <motion.h1
