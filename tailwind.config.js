@@ -27,7 +27,11 @@ module.exports = {
       fontSize: {
         'ghdata-xsm': '14px',
         'ghdata-sm': '16px',
-        'ghdata-md': '18px',
+        'ghdata-md-sm': '18px',
+        'ghdata-md': '20px',
+        'ghdata-lg': '24px',
+
+
       },
 
       fontFamily: {
@@ -47,6 +51,7 @@ module.exports = {
       height: {
         'ghdata-px-70': '70px',
         'ghdata-px-49': '49px',
+        'ghdata-px-60': '60px',
         
       },
 

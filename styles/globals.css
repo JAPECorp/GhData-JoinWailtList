@@ -14,4 +14,8 @@
   button.small {
     @apply btn h-ghdata-px-49 w-ghdata-px-180;
   }
+
+  button.large {
+    @apply btn mx-auto h-ghdata-px-49 w-ghdata-px-180 sm:w-ghdata-px-189 md:h-ghdata-px-60 text-ghdata-xsm sm:text-ghdata-sm md:text-ghdata-md-sm;
+  }
 }
