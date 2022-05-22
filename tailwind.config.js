@@ -52,6 +52,7 @@ module.exports = {
         'ghdata-px-70': '70px',
         'ghdata-px-49': '49px',
         'ghdata-px-60': '60px',
+        "ghdata-px-450": "337px",
         
       },
 
@@ -61,6 +62,7 @@ module.exports = {
         'ghdata-px-173': '173px',
         'ghdata-px-150': '150px',
         'ghdata-px-580': '450px',
+        'ghdata-px-506': '506px',
         'ghdata-pct-13': '13%',
         'ghdata-pct-19': '19%'
       },
