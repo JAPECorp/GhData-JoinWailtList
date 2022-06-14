@@ -77,7 +77,7 @@ module.exports = {
 
       backgroundImage: {
         "ghdata-section-gradient":
-          "linear-gradient(0deg, #38F49A 100%, #359E6C 100%)",
+        "linear-gradient(0deg, #359E6C 10.84%, #38F49A 93.27%)"
       },
       
 
