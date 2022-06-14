@@ -68,13 +68,6 @@ function Index(props) {
 
 
 
-      <section className="mt-18">
-
-
-
-
-
-      </section>
       <section className="py-20 ">
         <div className="flex flex-col px-8 mx-auto space-y-12 max-w-7xl xl:px-12">
           <div className="sm:w-4/5 lg:w-1/2 text-center mx-auto">
@@ -152,6 +145,26 @@ function Index(props) {
           </div>
 
         </div>
+      </section>
+
+      <section className="py-0 bg-ghdata-section-gradient px-6  lg:px-36 ">
+        <div className="flex flex-col mb-8 animated fadeIn sm:flex-row">
+          <div className="p-10 flex items-center mb-8 sm:w-1/2 md:w-5/12">
+            <img className=" rounded-lg " src="/stairs.png" alt="" />
+          </div>
+          <div className="flex flex-col justify-center  mb-8 md:mt-0 sm:w-1/2 md:w-7/12 sm:pl-16">
+            <h3 className="text-center md:pl-20 mt-2 text-3xl text-white font-bold sm:text-left md:text-4xl leading-tight">
+              Online Security For
+              <br />
+              You & Your Family
+            </h3>
+            <p className="px-0 md:px-20 mt-5 text-lg text-white text md:text-left">
+              With our advanced technology, you can enjoy a safe and private Internet experience without
+              compromising the performance of your computer and mobile devices.
+            </p>
+          </div>
+        </div>
+
       </section>
 
 
