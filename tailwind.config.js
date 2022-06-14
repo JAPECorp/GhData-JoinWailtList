@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const {
   screens
 } = require('tailwindcss/defaultTheme')
@@ -88,3 +89,15 @@ module.exports = {
   },
   plugins: [],
 }
+=======
+module.exports = {
+  content: [
+    "./pages/**/*.{js,ts,jsx,tsx}",
+    "./components/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
+>>>>>>> 23a5aa151e13214a9357a2b05fd2bca18af6ce02
