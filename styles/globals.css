@@ -1,7 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-<<<<<<< HEAD
 
 @layer base {
   .btn {
@@ -20,5 +19,3 @@
     @apply btn mx-auto h-ghdata-px-49 w-ghdata-px-180 sm:w-ghdata-px-189 md:h-ghdata-px-60 text-ghdata-xsm sm:text-ghdata-sm md:text-ghdata-md-sm;
   }
 }
-=======
->>>>>>> 23a5aa151e13214a9357a2b05fd2bca18af6ce02

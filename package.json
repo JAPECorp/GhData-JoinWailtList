@@ -17,18 +17,10 @@
     "react-tsparticles": "^2.0.6"
   },
   "devDependencies": {
-<<<<<<< HEAD
     "autoprefixer": "^10.4.7",
     "eslint": "8.11.0",
     "eslint-config-next": "12.1.0",
-    "postcss": "^8.4.13",
-    "tailwindcss": "^3.0.24"
-=======
-    "autoprefixer": "^10.4.2",
-    "eslint": "8.11.0",
-    "eslint-config-next": "12.1.0",
-    "postcss": "^8.4.8",
-    "tailwindcss": "^3.0.23"
->>>>>>> 23a5aa151e13214a9357a2b05fd2bca18af6ce02
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.2"
   }
 }
