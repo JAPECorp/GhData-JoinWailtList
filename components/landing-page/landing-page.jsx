@@ -88,19 +88,43 @@ function Index(props) {
               <img className="rounded-lg shadow-xl" src="https://cdn.devdojo.com/images/december2020/dashboard-011.png" alt="" />
             </div>
             <div className="flex flex-col justify-center mt-5 mb-8 md:mt-0 sm:w-1/2 md:w-7/12 sm:pr-16">
-              <p className="mb-2 text-sm font-semibold leading-none text-left text-indigo-600 uppercase">Drag-n-drop design</p>
-              <h3 className="mt-2 text-2xl sm:text-left md:text-4xl">Design Made Easy</h3>
-              <p className="mt-5 text-lg text-gray-700 text md:text-left">Crafting your user experience has never been easier, with our intuitive drag'n drop interface you will be creating beatiful designs in no time.</p>
+              <h3 className="pl-20 mt-2 text-xl sm:text-left md:text-2xl">Heading One</h3>
+              <p className="px-20 mt-5 text-lg text-gray-700 text md:text-left">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis placerat mi
+                vel diam convallis facilisis. Donec hendrerit turpis sem,
+                eget mattis tortor consectetur sed. Suspendisse at porta nibh.
+                <br />
+                <br />
+                Curabitur viverra efficitur iaculis.
+                Nunc non velit lobortis, posuere felis quis,
+                aliquet arcu. Pellentesque lobortis congue condimentum.
+                Class aptent taciti sociosqu ad litora torquent per
+                conubia nostra, per inceptos himenaeos. Nam consequat
+                urna tincidunt,
+                ullamcorper ante quis, auctor orci. Nullam tristique lacinia eros, non consequat purus malesuada at.
+              </p>
             </div>
           </div>
           <div className="flex flex-col mb-8 animated fadeIn sm:flex-row">
-            <div className="flex items-center mb-8 sm:w-1/2 md:w-5/12">
+            <div className="p-10 flex items-center mb-8 sm:w-1/2 md:w-5/12">
               <img className="rounded-lg shadow-xl" src="https://cdn.devdojo.com/images/december2020/dashboard-04.png" alt="" />
             </div>
             <div className="flex flex-col justify-center mt-5 mb-8 md:mt-0 sm:w-1/2 md:w-7/12 sm:pl-16">
-              <p className="mb-2 text-sm font-semibold leading-none text-left text-indigo-600 uppercase">know your data</p>
-              <h3 className="mt-2 text-2xl sm:text-left md:text-4xl">Optimized For Conversions</h3>
-              <p className="mt-5 text-lg text-gray-700 text md:text-left">Backed by data, these templates have been crafted for ultimate optimization. Now, converting your visitors into customers is easier than ever before.</p>
+              <h3 className="pl-20 mt-2 text-xl sm:text-left md:text-2xl">Heading Two</h3>
+              <p className="px-20 mt-5 text-lg text-gray-700 text md:text-left">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis placerat mi
+                vel diam convallis facilisis. Donec hendrerit turpis sem,
+                eget mattis tortor consectetur sed. Suspendisse at porta nibh.
+                <br />
+                <br />
+                Curabitur viverra efficitur iaculis.
+                Nunc non velit lobortis, posuere felis quis,
+                aliquet arcu. Pellentesque lobortis congue condimentum.
+                Class aptent taciti sociosqu ad litora torquent per
+                conubia nostra, per inceptos himenaeos. Nam consequat
+                urna tincidunt,
+                ullamcorper ante quis, auctor orci. Nullam tristique lacinia eros, non consequat purus malesuada at.
+              </p>
             </div>
           </div>
           <div className="flex flex-col mb-8 animated fadeIn sm:flex-row">
@@ -108,9 +132,21 @@ function Index(props) {
               <img className="rounded-lg shadow-xl" src="https://cdn.devdojo.com/images/december2020/dashboard-03.png" alt="" />
             </div>
             <div className="flex flex-col justify-center mt-5 mb-8 md:mt-0 sm:w-1/2 md:w-7/12 sm:pr-16">
-              <p className="mb-2 text-sm font-semibold leading-none text-left text-indigo-600 uppercase">Easy to customize</p>
-              <h3 className="mt-2 text-2xl sm:text-left md:text-4xl">Make It Your Own</h3>
-              <p className="mt-5 text-lg text-gray-700 text md:text-left">All templates and components are fully customizable. You can use these templates to tell your personal story and convey your message.</p>
+              <h3 className="pl-20 mt-2 text-xl sm:text-left md:text-2xl">Heading Three</h3>
+              <p className="px-20 mt-5 text-lg text-gray-700 text md:text-left">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis placerat mi
+                vel diam convallis facilisis. Donec hendrerit turpis sem,
+                eget mattis tortor consectetur sed. Suspendisse at porta nibh.
+                <br />
+                <br />
+                Curabitur viverra efficitur iaculis.
+                Nunc non velit lobortis, posuere felis quis,
+                aliquet arcu. Pellentesque lobortis congue condimentum.
+                Class aptent taciti sociosqu ad litora torquent per
+                conubia nostra, per inceptos himenaeos. Nam consequat
+                urna tincidunt,
+                ullamcorper ante quis, auctor orci. Nullam tristique lacinia eros, non consequat purus malesuada at.
+              </p>
             </div>
           </div>
 
