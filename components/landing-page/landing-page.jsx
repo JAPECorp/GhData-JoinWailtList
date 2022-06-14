@@ -86,11 +86,11 @@ function Index(props) {
           </div>
           <div className="flex flex-col mb-8 animated fadeIn sm:flex-row">
             <div className="flex items-center mb-8 sm:w-1/2 md:w-5/12 sm:order-last">
-              <img className="rounded-lg shadow-xl" src="https://cdn.devdojo.com/images/december2020/dashboard-011.png" alt="" />
+              <img className="rounded-lg " src="/Research paper-bro 1.svg" alt="" />
             </div>
             <div className="flex flex-col justify-center mt-5 mb-8 md:mt-0 sm:w-1/2 md:w-7/12 sm:pr-16">
               <h3 className="pl-20 mt-2 text-xl sm:text-left md:text-2xl">Heading One</h3>
-              <p className="px-20 mt-5 text-lg text-gray-700 text md:text-left">
+              <p className="px-0 md:px-20 mt-5 text-lg text-gray-700 text md:text-left">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis placerat mi
                 vel diam convallis facilisis. Donec hendrerit turpis sem,
                 eget mattis tortor consectetur sed. Suspendisse at porta nibh.
@@ -108,11 +108,11 @@ function Index(props) {
           </div>
           <div className="flex flex-col mb-8 animated fadeIn sm:flex-row">
             <div className="p-10 flex items-center mb-8 sm:w-1/2 md:w-5/12">
-              <img className="rounded-lg shadow-xl" src="https://cdn.devdojo.com/images/december2020/dashboard-04.png" alt="" />
+              <img className="rounded-lg " src="/Environmental audit-bro 1.svg" alt="" />
             </div>
             <div className="flex flex-col justify-center mt-5 mb-8 md:mt-0 sm:w-1/2 md:w-7/12 sm:pl-16">
               <h3 className="pl-20 mt-2 text-xl sm:text-left md:text-2xl">Heading Two</h3>
-              <p className="px-20 mt-5 text-lg text-gray-700 text md:text-left">
+              <p className="px-0 md:px-20 mt-5 text-lg text-gray-700 text md:text-left">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis placerat mi
                 vel diam convallis facilisis. Donec hendrerit turpis sem,
                 eget mattis tortor consectetur sed. Suspendisse at porta nibh.
@@ -130,11 +130,11 @@ function Index(props) {
           </div>
           <div className="flex flex-col mb-8 animated fadeIn sm:flex-row">
             <div className="flex items-center mb-8 sm:w-1/2 md:w-5/12 sm:order-last">
-              <img className="rounded-lg shadow-xl" src="https://cdn.devdojo.com/images/december2020/dashboard-03.png" alt="" />
+              <img className="rounded-lg " src="/Open source-bro 1.svg" alt="" />
             </div>
             <div className="flex flex-col justify-center mt-5 mb-8 md:mt-0 sm:w-1/2 md:w-7/12 sm:pr-16">
               <h3 className="pl-20 mt-2 text-xl sm:text-left md:text-2xl">Heading Three</h3>
-              <p className="px-20 mt-5 text-lg text-gray-700 text md:text-left">
+              <p className="px-0 md:px-20 mt-5 text-lg text-gray-700 text md:text-left">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis placerat mi
                 vel diam convallis facilisis. Donec hendrerit turpis sem,
                 eget mattis tortor consectetur sed. Suspendisse at porta nibh.
