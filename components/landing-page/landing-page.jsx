@@ -153,18 +153,27 @@ function Index(props) {
             <img className=" rounded-lg " src="/stairs.png" alt="" />
           </div>
           <div className="flex flex-col justify-center  mb-8 md:mt-0 sm:w-1/2 md:w-7/12 sm:pl-16">
-            <h3 className="text-center md:pl-20 mt-2 text-3xl text-white font-bold sm:text-left md:text-4xl leading-tight">
+            <h3 className="text-center md:pl-10 mt-2 text-3xl text-white font-bold sm:text-left md:text-4xl leading-tight">
               Online Security For
               <br />
               You & Your Family
             </h3>
-            <p className="px-0 md:px-20 mt-5 text-lg text-white text md:text-left">
+            <p className="px-0 md:px-10 mt-5 text-lg text-white text md:text-left">
               With our advanced technology, you can enjoy a safe and private Internet experience without
               compromising the performance of your computer and mobile devices.
             </p>
           </div>
         </div>
+      </section>
 
+      <section className="pt-20 pb-20 ">
+        <div className="text-center">
+          <h1 className="text-4xl md:text-5xl font-bold">
+            Build apps that power content
+            <br />
+            and collaboration
+          </h1>
+        </div>
       </section>
 
 
