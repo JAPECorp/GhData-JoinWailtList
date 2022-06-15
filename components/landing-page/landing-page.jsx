@@ -55,9 +55,9 @@ function Index(props) {
           >
             Descriptive text about the project maybe two lines but let’s see how it goes. Maybe something like this.
           </motion.h3>
-          <button className="large mt-5" onClick={{}}>
+          {/* <button className="large mt-5" onClick={{}}>
             Join our waitlist
-          </button>
+          </button> */}
 
         </div>
       </section>
